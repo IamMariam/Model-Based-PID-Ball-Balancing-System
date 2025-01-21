@@ -18,7 +18,9 @@ This project involves the design and implementation of a Model-Based PID Ball Ba
 
 ## Software Components
 1- Simulink: Used for model-based design and implementation of the PID controller.
+
 2- Arduino IDE: For programming the Arduino board.
+
 3- HyperTerminal: For serial communication to display the immediate distance of the ball on a PC.
 
 ## Design Requirements:
